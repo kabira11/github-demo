@@ -1,0 +1,42 @@
+.row {
+    padding: 1rem;
+}
+
+hr,
+.md-form.md-outline,
+.btn,
+.row {
+    margin: 0px;
+}
+
+.btn.btn-sm {
+    padding: 0.6rem 1.6rem;
+}
+
+.card-container {
+    padding: 5px;
+}
+.card {
+    min-height: 210px;
+    padding: 1rem;
+}
+.card-title {
+    color: #4285f4;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.card-description {
+    font-size: 14px;
+    height: 100px;
+}
+
+.card-date {
+    font-size: 12px;
+    position: absolute;
+    bottom: 0;
+}
+.error-msg {
+    text-align: center;
+    margin-top: 15%;
+}
